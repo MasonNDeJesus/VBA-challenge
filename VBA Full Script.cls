@@ -96,7 +96,7 @@ Sub reset()
     
 End Sub
 
-Sub FindMaxPercentage()
+Sub FindMaxMinValues()
     Dim dataPercentRange As Range
     Dim dataVolumeRange As Range
     Dim cell As Range
